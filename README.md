@@ -3,7 +3,7 @@
 # Hey there, I'm Franco Rodriguez 👋
 
 <a href="https://vmanager.club">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Tech+Lead+%26+Staff+Software+Engineer;High-Scale+Architecture+(40M%2B+Users);Founder+of+vmanager.club;Autonomous+AI+Agents+%26+MCP+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Tech+Lead+%26+Staff+Software+Engineer;High-Scale+Architecture+(40M%2B+Users);Founder+of+vmanager.club+%26+futboltracker.club;Autonomous+AI+Agents+%26+MCP+Architect" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -29,7 +29,7 @@
 
 - 💻 **Lead Engineer & Architect**: 10+ years designing high-throughput, fault-tolerant platforms and microservices handling 40M+ users.
 - 🤖 **AI Engineering & Autonomous Agents**: Creator of production-grade agent pipelines, custom **MCP (Model Context Protocol)** servers, and autonomous code review / SRE runbooks.
-- ⚽🏐 **Sports Tech Founder**: Building **Virtual Manager (VManager)** & **Futbol Tracker** — real-time sports club management and live federation synchronization platforms.
+- ⚽🏐 **Sports Tech Founder**: Building **[vmanager.club](https://vmanager.club)** & **[futboltracker.club](https://futboltracker.club)** — real-time sports club management and live federation synchronization platforms.
 - 🎯 **Engineering Craftsmanship**: Strong advocate of TDD (Test-Driven Development), clean architecture seams, SRE performance tuning, and resilient developer tooling.
 
 ---
@@ -69,7 +69,7 @@
 
 ---
 
-## 🏆 Featured SaaS Product & Founder Spotlight
+## 🏆 Featured SaaS Products & Founder Spotlight
 
 <div align="center">
 
@@ -87,6 +87,23 @@
 - 🛡️ **Zero-Email Onboarding & Multi-Tenant**: Frictionless coach provisioning, role-based access control, and public Fan Portal (`/c/:slug`).
 - 📊 **Rival Intelligence & Live Broadcast**: Real-time match sheet broadcasting with Turbo Streams and historical head-to-head analytics.
 
+<br/>
+
+<div align="center">
+
+### ⚽ [**Futbol Tracker** — `futboltracker.club`](https://futboltracker.club)
+**Next-Gen Football Squad Intelligence, Tournament Tracking & Tactical Analytics**
+
+[![Status](https://img.shields.io/badge/Status-Live%20in%20Production-10B981?style=for-the-badge&logo=statuspage&logoColor=white)](https://futboltracker.club)
+[![Stack](https://img.shields.io/badge/Stack-Rails%20%7C%20Hotwire%20%7C%20Postgres%20%7C%20Tailwind-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://futboltracker.club)
+[![Analytics](https://img.shields.io/badge/Analytics-EA%20FC%20Style%20%7C%20Live%20Rankings-38B2AC?style=for-the-badge)](https://futboltracker.club)
+
+</div>
+
+- 📈 **Player Performance & EA FC Style Metrics**: Deep statistical tracking per match, top scorers, assists, cards, and clean sheets.
+- 🏆 **Dynamic Tournament & League Hub**: Real-time classifications, match schedules, knockout brackets, and club standings.
+- 📱 **Mobile-First Experience**: Clean responsive cards, holographic player badges, and instant match day updates.
+
 ---
 
 ## 🌟 Open Source Projects & AI Agent Skills
@@ -94,6 +111,7 @@
 | Project / Skill | Category | Description | Stack / Link |
 | :--- | :--- | :--- | :--- |
 | [**vmanager.club**](https://vmanager.club) | 🚀 **Live SaaS** | Sports Club Management SaaS & Multi-Sport Federation Sync Platform. | [Website 🌐](https://vmanager.club) |
+| [**futboltracker.club**](https://futboltracker.club) | 🚀 **Live SaaS** | Football Squad Intelligence, Tournament Tracking & Tactical Analytics. | [Website 🌐](https://futboltracker.club) |
 | [**tech-lead-code-reviewer-skill**](https://github.com/FrancoRodriguez/tech-lead-code-reviewer-skill) | 🤖 AI Agent Skill | Autonomous Tech Lead & Principal Architect code reviewer enforcing concurrency, SRE audit, and Addy Osmani's 5-axis standards. | `Agent SDK` `MCP` |
 | [**sre-performance-audit-skill**](https://github.com/FrancoRodriguez/sre-performance-audit-skill) | ⚡ SRE & DevOps | Autonomous AI runbook for auditing, diagnosing, and optimizing Rails, Postgres query loads, Redis caching, and Puma concurrency. | `Ruby on Rails` `SRE` |
 | [**feature-development-pipeline-skill**](https://github.com/FrancoRodriguez/feature-development-pipeline-skill) | 🛠️ Developer Tooling | 6-step multi-agent pipeline enforcing TDD Red-Green-Refactor, PRD spec verification, and architecture gates. | `AI Pipeline` `TDD` |
