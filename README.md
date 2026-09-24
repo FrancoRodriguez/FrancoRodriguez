@@ -1,7 +1,12 @@
 <div align="center">
 
 # Hey there, I'm Franco Rodriguez 👋
-### **Tech Lead & Staff Software Engineer** | **Autonomous AI Agent Architect**
+
+<a href="https://vmanager.club">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Tech+Lead+%26+Staff+Software+Engineer;High-Scale+Architecture+(40M%2B+Users);Founder+of+vmanager.club;Autonomous+AI+Agents+%26+MCP+Architect" alt="Typing SVG" />
+</a>
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodriguezcfranco/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodriguezcfranco@gmail.com)
@@ -97,16 +102,17 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FrancoRodriguez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=7EE787" height="165" alt="Franco's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FrancoRodriguez&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakNum=58A6FF" height="165" alt="Franco's GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrancoRodriguez&theme=tokyonight" height="180" alt="GitHub Profile Details" />
+<img src="https://streak-stats.demolab.com/?user=FrancoRodriguez&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakNum=58A6FF" height="180" alt="Franco's GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoRodriguez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="145" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FrancoRodriguez&theme=tokyonight" height="180" alt="Repos Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FrancoRodriguez&theme=tokyonight" height="180" alt="Most Commit Language" />
 
 </div>
 
