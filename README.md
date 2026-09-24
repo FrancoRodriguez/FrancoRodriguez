@@ -3,7 +3,7 @@
 # Hey there, I'm Franco Rodriguez 👋
 ### **Tech Lead & Staff Software Engineer** | **Autonomous AI Agent Architect**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-rodriguez/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodriguezcfranco/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodriguezcfranco@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/FrancoRodriguez)
 [![Location](https://img.shields.io/badge/Location-Madrid%2C%20Spain%20🇪🇸-10B981?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Madrid,+Spain)
